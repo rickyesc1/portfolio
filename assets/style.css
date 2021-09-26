@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(41, 57, 63);
+  }
+  
+.box {
+    color: rgb(193, 204, 92);
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
+
+.sectionContainer {
+    align-self: center;
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+
+}
+
+.logo {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
+
+.contact-me {
+    margin: auto;
+    width: 60%;
+    border: 5px solid #FFFF00;
+    padding: 10px;
+}
