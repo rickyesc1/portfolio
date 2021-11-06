@@ -1,0 +1,89 @@
+.project{
+    background-color: #55a71f;
+    color: #9620c5;
+}
+.card-body{
+    background-color: #55a71f;
+    color: #9620c5;
+}
+
+.navbar{
+    background-color: #55a71f;
+    color: #9620c5;
+}
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ml9 {
+    position: relative;
+    font-weight: 200;
+    font-size: 2.5em;
+    color: #9620c5;
+  }
+  
+  .ml9 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: 0.2em;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+  }
+  
+  .ml9 .letter {
+    transform-origin: 50% 100%;
+    display: inline-block;
+    line-height: 1em;
+  }
+.section{
+    padding-top:10%
+}
+
+.title{
+    padding-bottom:10px;
+    margin-top: 20px;
+    color: #9620c5;
+}
+.titleh3{
+    background-color: #f3e6d4;
+    color: #9620c5;
+}
+
+.card{
+    background-color: #EAE7DC;
+}
+.contact-links a{
+    color: #9620c5;
+}
+.contact-links a:hover {
+    color: #8e8d8a;
+list-style: none; 
+}
+ul#social-media{
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    justify-content: space-evenly;
+}
+.social-links ul a{
+    color: #9620c5;
+}
+.social-links ul a:hover {
+    color: #8e8d8a;
+list-style: none; 
+}
+
+li
+{ 
+display:inline-block; 
+padding: 0;
+}   
+.card-img-top{
+    opacity: .5;
+}
+.card-img-top:hover{
+    opacity: 1.0;
+}
+h3 { font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; min-height: 15.4px; }
