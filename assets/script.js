@@ -9,3 +9,4 @@ anime.timeline({loop: false})
     elasticity: 600,
     delay: (el, i) => 45 * (i+1)
   });
+// the point of this is to have the pictures , words, basically all of the content show up in a cool fading type of way.
